@@ -25,7 +25,7 @@ yoohan95@gmail.com
 
 ### 서울과학기술대학교
 
-- 산업공학과
+- 글로벌융합산업공학과 - 산업정보시스템전공
   - 본전공
   - 2014.3. ~
 - 컴퓨터공학과
@@ -77,15 +77,17 @@ yoohan95@gmail.com
 
 ### AUFFETT
 
-- LINE Financial Plus 인턴십 과제 (2019.4. ~ 2019.5.)
+- LINE Financial Plus 인턴십 과제
+  - 2019.4. ~ 2019.5.
 - 위치 기반 가계부 애플리케이션
-- iOS / Swift / ReactiveSwift / Alamofire / Carthage
+- iOS / Swift / ReactiveSwift / Alamofire / Carthage / NAVER Map SDK
 
-![auffett_1](./images/auffett_1.png) ![auffett_2](./images/auffett_2.png) ![auffett_3](./images/auffett_3.png)
+![auffett_2](./images/auffett_1.png) ![auffett_3](./images/auffett_2.png)
 
 ### 다연결
 
-- 개인 프로젝트 (2019.6. ~ )
+- 개인 프로젝트
+  - 2019.6. ~
 - 전국 대학교 공지사항을 모아 보여주는 애플리케이션
 - Flutter / Dart
 - [GitHub](https://github.com/presto95/UniTice_Flutter)
@@ -94,7 +96,8 @@ yoohan95@gmail.com
 
 ### 다연결
 
-- 개인 프로젝트 (2018.12. ~ )
+- 개인 프로젝트
+  - 2018.12. ~
 - 전국 대학교 공지사항을 모아 보여주는 애플리케이션
 - iOS / Swift / ReactorKit / RxSwift / SnapKit / XLPagerTabStrip / Kanna
 - [GitHub](https://github.com/presto95/UniTice)
@@ -104,7 +107,8 @@ yoohan95@gmail.com
 
 ### 내안의먼지
 
-- Boostcamp 3기 프로젝트 (2019.1. ~ 2019.2.)
+- Boostcamp 3기 프로젝트
+  - 2019.1. ~ 2019.2.
 - 이동 거리에 따라 미세먼지 흡입량을 계산하여 알려주는 애플리케이션
 - iOS / Swift / HealthKit / URLSession
 - [GitHub](https://github.com/boostcamp3-iOS/team-c2)
@@ -113,7 +117,8 @@ yoohan95@gmail.com
 
 ### RespectU
 
-- 개인 프로젝트 (2017.10. ~ 2019.3.)
+- 개인 프로젝트
+  - 2017.10. ~ 2019.3.
 - 게임 DJMAX RESPECT의 가이드 애플리케이션
 - iOS / Swift / Realm / XLPagerTabStrip
 - [GitHub](https://github.com/presto95/RespectU)
