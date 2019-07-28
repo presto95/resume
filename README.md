@@ -32,6 +32,7 @@ yoohan95@gmail.com
   - 복수전공
   - 2017.9 ~
 - 3.89 / 4.5
+- 2020.2. 졸업 예정
 
 ### 고려고등학교
 
@@ -43,7 +44,7 @@ yoohan95@gmail.com
 ### LINE Financial Plus
 
 - F App Dev (인턴)
-- 2019.4. ~ 2019.5.
+- 2019.4.1. ~ 2019.5.31.
 
 ## 활동
 
@@ -78,7 +79,7 @@ yoohan95@gmail.com
 ### AUFFETT
 
 - LINE Financial Plus 인턴십 과제
-  - 2019.4. ~ 2019.5.
+  - 2019.4.1. ~ 2019.5.31.
 - 위치 기반 가계부 애플리케이션
 - iOS / Swift / ReactiveSwift / Alamofire / Carthage / NAVER Map SDK
 
@@ -87,7 +88,7 @@ yoohan95@gmail.com
 ### 다연결
 
 - 개인 프로젝트
-  - 2019.6. ~
+  - 2019.6.
 - 전국 대학교 공지사항을 모아 보여주는 애플리케이션
 - Flutter / Dart
 - [GitHub](https://github.com/presto95/UniTice_Flutter)
