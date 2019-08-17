@@ -76,6 +76,15 @@ yoohan95@gmail.com
 
 ## 프로젝트
 
+### HGCodeBaseUI
+
+- 오픈 소스 라이브러리
+  - 2019.8.
+- iOS에서 Interface Builder 없이 코드로만 UI를 작성하기 위한 기반 구조 제안
+- iOS / Swift / SnapKit / Then
+- [GitHub](https://github.com/presto95/HGCodeBaseUI)
+- [Cocoapods](http://cocoapods.org/pods/HGCodeBaseUI)
+
 ### AUFFETT
 
 - LINE Financial Plus 인턴십 과제
