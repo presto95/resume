@@ -65,6 +65,12 @@ yoohan95@gmail.com
 - iOS Developer
 - 2018.5. ~ 2018.9.
 
+### DDD
+
+- 디자이너 및 개발자 그룹
+- 3기 iOS 개발
+  - 2019.10. ~ 2020.2.
+
 ### NEXTERS
 
 - IT 연합동아리
