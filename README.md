@@ -44,6 +44,7 @@ yoohan95@gmail.com
 ### LINE Financial Plus
 
 - F App Dev (인턴)
+- 위치 기반 가계부 애플리케이션 개발 과제 수행
 - 2019.4.1. ~ 2019.5.31.
 
 ## 활동
@@ -51,38 +52,45 @@ yoohan95@gmail.com
 ### 공개SW 컨트리뷰톤
 
 - [구름 입력기](https://github.com/gureum/) 멘티
-- 2019.9. ~
+- 리팩토링 및 이슈 해결 작업
+- 2019.9. ~ 2019.10.
 
-### Boostcamp 3기
+### Boostcourse 학습 페이스 메이커
 
 - 커넥트재단
-- iOS 과정
+- Boostcourse iOS 프로그래밍 과정
+- 2019.7.19. ~ 2019.9.19.
+
+### Boostcamp
+
+- 커넥트재단
+- 3기 | iOS 과정
 - 2019.1. ~ 2019.2.
 
-### Boostcourse 에이스 1기
+### Boostcourse 에이스
 
 - 커넥트재단 edwith
-- iOS Developer
+- 1기 | iOS Developer
 - 2018.5. ~ 2018.9.
 
-### DDD
+### DDD.
 
 - 디자이너 및 개발자 그룹
-- 3기 iOS 개발
+- 3기 | iOS 앱 개발
   - 2019.10. ~ 2020.2.
 
 ### NEXTERS
 
 - IT 연합동아리
-- 14기 iOS 개발
+- 14기 | iOS 앱 개발
   - 2018.12. ~ 2019.2.
 
 ### YAPP
 
 - 대학생 IT 연합동아리
-- 13기 회장 / iOS 개발
+- 13기 | 회장 / iOS 앱 개발
   - 2018.7. ~ 2018.12.
-- 12기 iOS 개발
+- 12기 | iOS 앱 개발
   - 2018.1. ~ 2018.6.
 
 ## 프로젝트
@@ -91,7 +99,7 @@ yoohan95@gmail.com
 
 - 오픈 소스 라이브러리
   - 2019.8.
-- iOS에서 Interface Builder 없이 코드로만 UI를 작성하기 위한 기반 구조 제안
+- iOS 앱 개발 과정에서 Interface Builder 없이 코드로만 UI를 작성하기 위한 기반 구조 제안
 - iOS / Swift / SnapKit / Then
 - [GitHub](https://github.com/presto95/HGCodeBaseUI)
 - [Cocoapods](http://cocoapods.org/pods/HGCodeBaseUI)
