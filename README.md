@@ -21,6 +21,11 @@ yoohan95@gmail.com
 - 공군 병장 만기제대
 - 2015.1.19. ~ 2017.1.18.
 
+### 웹 사이트
+
+- [GitHub](https://github.com/presto95)
+- [LinkedIn](https://www.linkedin.com/in/hangyeol-lee-463750152/)
+
 ## 학력
 
 ### 서울과학기술대학교
