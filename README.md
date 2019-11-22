@@ -4,7 +4,7 @@
 
 ### 이름 
 
-이한결 (Lee Hangyeol)
+이한결 (Hangyeol Lee)
 
 ### 생년월일
 
@@ -15,8 +15,6 @@
 yoohan95@gmail.com
 
 ### 병역
-
-필
 
 - 공군 병장 만기제대
 - 2015.1.19. ~ 2017.1.18.
@@ -31,7 +29,7 @@ yoohan95@gmail.com
 ### 서울과학기술대학교
 
 - 글로벌융합산업공학과 - 산업정보시스템전공
-  - 본전공
+  - 주전공
   - 2014.3. ~
 - 컴퓨터공학과
   - 복수전공
@@ -105,7 +103,7 @@ yoohan95@gmail.com
 ### Combine 🤝 RxSwift 🤝 ReactiveSwift
 
 - 문서
-  - 2019.10. ~
+  - 2019.10. ~ 2019.11.
 - Combine의 구성 요소를 RxSwift, ReactiveSwift와 비교하여 RxSwift 등에 익숙한 개발자가 Combine을 빠르게 학습할 수 있도록 정리한 문서
 - [GitHub](https://github.com/presto95/Combine-RxSwift-ReactiveSwift)
 - [GitBook](https://presto95.gitbook.io/combine-rxswift-reactiveswift/)
@@ -123,15 +121,16 @@ yoohan95@gmail.com
 
 - LINE Financial Plus 인턴십 과제
   - 2019.4.1. ~ 2019.5.31.
-- 위치 기반 가계부 애플리케이션
+- 지도를 활용하여 위치 기반 기능을 구현한 가계부 애플리케이션
 - iOS / Swift / ReactiveSwift / Alamofire / Carthage / NAVER Map SDK
+- [최종 발표 자료](https://drive.google.com/file/d/1MT_1ZfaFOok22LpZJZBcb79OgFLopiqO/view?usp=sharing)
 
 ![auffett_2](./images/auffett_1.png) ![auffett_3](./images/auffett_2.png)
 
 ### 다연결
 
 - 개인 프로젝트
-  - 2018.12. ~
+  - 2018.12. ~ 2019.3.
 - 전국 대학교 공지사항을 모아 보여주는 애플리케이션
 - iOS / Swift / ReactorKit / RxSwift / SnapKit / XLPagerTabStrip / Kanna
 - [GitHub](https://github.com/presto95/UniTice)
