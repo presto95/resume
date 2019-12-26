@@ -1,3 +1,5 @@
+
+
 # Refactoring Lover for Writing Aesthetic Code
 
 ## 신상
@@ -37,12 +39,12 @@ yoohan95@gmail.com
 ### 서울과학기술대학교
 
 - 글로벌융합산업공학과 - 산업정보시스템전공
-  - 2014.3. ~ 2020.2. (졸업 예정)
+  - 2014.3. ~ 2020.2.
   - 주전공
 - 컴퓨터공학과
-  - 2017.9. ~ 2020.2. (졸업 예정)
+  - 2017.9. ~ 2020.2.
   - 복수전공
-- 3.84 / 4.5
+- 3.8 / 4.5
 
 ### 고려고등학교
 
@@ -162,26 +164,16 @@ yoohan95@gmail.com
 
 ### 다연결
 
-- 2018.12. ~ 2019.3.
+- 2018.12. ~ 2019.3. / 2019.6.
 - 개인 프로젝트
 - 전국 대학교 공지사항을 모아 보여주는 애플리케이션
   - ReactorKit과 함께 RxSwift를 사용하여 Rx에 빠르게 익숙해짐
+  - Flutter를 사용하여 해당 애플리케이션을 구현, Flutter와 Dart에 빠르게 익숙해짐
 - iOS / Swift / ReactorKit / RxSwift / SnapKit / XLPagerTabStrip / Kanna
+- Flutter / Dart
 - [GitHub](https://github.com/presto95/UniTice) | [App Store](https://nexters.me/Ke)
 
-![unitice_ios](./images/unitice_ios_1.png)
-
-### 다연결
-
-- 2019.6.
-- 개인 프로젝트
-- 전국 대학교 공지사항을 모아 보여주는 애플리케이션
-  - 위의 iOS 네이티브 애플리케이션을 Flutter를 사용하여 구현
-  - Flutter와 Dart에 빠르게 익숙해짐
-- Flutter / Dart
-- [GitHub](https://github.com/presto95/UniTice_Flutter)
-
-![unitice_flutter_1](./images/unitice_flutter_1.png)
+![unitice_ios](./images/unitice_ios_1.png) ![unitice_flutter_1](./images/unitice_flutter_1.png)
 
 ### 내안의먼지
 
