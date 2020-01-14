@@ -44,7 +44,7 @@ yoohan95@gmail.com
 - 컴퓨터공학과
   - 2017.9. ~ 2020.2.
   - 복수전공
-- 3.8 / 4.5
+- 3.79 / 4.5
 
 ### 고려고등학교
 
@@ -121,6 +121,20 @@ yoohan95@gmail.com
 - 대학생 IT 연합동아리
 - 13기 | 회장 + [iOS 앱 개발](#과일학당)
 - 12기 | [iOS 앱 개발](#유목민)
+
+## 발표
+
+### Collection View
+
+- 2020.1.18.
+- DDD. 직군 세션
+- [Slideshare](https://www.slideshare.net/HanGyeolLee4/collection-view-220540914)
+
+### Swift 성능 이해하기
+
+- 2019.12.21.
+- DDD. 직군 세션
+- [Slideshare](https://www.slideshare.net/HanGyeolLee4/swift-220176323)
 
 ## 프로젝트
 
