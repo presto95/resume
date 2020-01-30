@@ -53,6 +53,11 @@ yoohan95@gmail.com
 
 ## 경력
 
+### Coupang
+
+- 2020.2.3. ~
+- Mobile Engineer
+
 ### LINE Financial Plus
 
 - 2019.4.1. ~ 2019.5.31.
