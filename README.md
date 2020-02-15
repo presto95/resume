@@ -56,12 +56,12 @@ yoohan95@gmail.com
 ### Coupang
 
 - 2020.2.3. ~
-- Mobile Engineer
+- iOS Engineering
 
 ### LINE Financial Plus
 
-- 2019.4.1. ~ 2019.5.31.
-- F App Dev (인턴)
+- 2019.4.1. ~ 2019.5.31. (인턴)
+- F App Dev
 - LINE 가계부의 Beta API를 사용한 위치 기반 가계부 애플리케이션 [개발 과제](#auffett) 수행
 
 ## 기술
