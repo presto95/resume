@@ -57,6 +57,7 @@ yoohan95@gmail.com
 
 - 2020.2.3. ~
 - iOS Engineering
+- 쿠팡 iOS 애플리케이션 개발
 
 ### LINE Financial Plus
 
